@@ -1,2 +1,2 @@
 # hello-world
-This is my 1st-ever GitHub repository!
+I am a duck. I like to quack.
